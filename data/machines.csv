@@ -1,0 +1,16 @@
+machine_id,machine_type,line_id,install_date
+1,Motor,1,2024-01-10
+2,Bearing,2,2024-01-28
+3,Motor,2,2024-01-28
+4,Motor,2,2024-01-16
+5,Bearing,2,2024-01-15
+6,Bearing,1,2024-01-30
+7,Motor,1,2024-01-30
+8,Gearbox,2,2024-01-15
+9,Motor,2,2024-01-30
+10,Motor,1,2024-01-19
+11,Motor,1,2024-01-12
+12,Motor,1,2024-01-23
+13,Bearing,3,2024-01-20
+14,Motor,3,2024-01-25
+15,Gearbox,3,2024-01-03
