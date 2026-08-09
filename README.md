@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# Prescriptive Maintenance Analytics Engine
 
 
@@ -36,3 +37,6 @@ End-to-end analytics system combining SQL-based root-cause analysis, Weibull sur
 
 Python, SQLite, SQL (window functions, CTEs), lifelines (survival analysis), scikit-learn (Random Forest), pandas, matplotlib
 
+=======
+# Prescriptive-maintainance-Analytics
+>>>>>>> 5ed625894849869981e351e14dd1f91fe37133a6
