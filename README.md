@@ -6,7 +6,16 @@
 End-to-end analytics system combining SQL-based root-cause analysis, Weibull survival modeling, cost-optimization, and Random Forest validation to recommend data-driven maintenance schedules.
 
 
+## Run it yourself
 
+git clone https://github.com/ganeshkukkala7615/Prescriptive-maintenance-Analytics.git
+cd Prescriptive-maintenance-Analytics
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+python scripts\generate_data.py
+python scripts\load_to_db.py
+streamlit run scripts\dashboard.py
 \## Pipeline
 
 1\. Synthetic data generation (Weibull-distributed failure times, 15 machines, 3 types)
